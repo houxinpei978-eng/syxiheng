@@ -1,0 +1,26 @@
+{
+  "name": "Shiyan Xiheng Technology",
+  "short_name": "Xiheng",
+  "description": "Global software engineering and commerce technology services by Shiyan Xiheng Technology Co., Ltd.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0f62fe",
+  "background_color": "#f4f7fb",
+  "icons": [
+    {
+      "src": "svg/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "svg/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

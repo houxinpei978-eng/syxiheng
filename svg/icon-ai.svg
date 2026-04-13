@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AI analytics icon">
+  <circle cx="32" cy="32" r="22" fill="#eaf1fb" stroke="#0f62fe" stroke-width="2"/>
+  <circle cx="32" cy="32" r="4" fill="#0043ce"/>
+  <path d="M32 10v10M32 44v10M10 32h10M44 32h10M16 16l7 7M41 41l7 7M16 48l7-7M41 23l7-7" stroke="#0f62fe" stroke-width="2" stroke-linecap="round"/>
+</svg>

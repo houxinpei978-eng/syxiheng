@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Xiheng Technology Logo</title>
+  <desc id="logoDesc">Abstract X shape in blue gradients with circular motion line.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f62fe"/>
+      <stop offset="100%" stop-color="#0043ce"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="28" fill="#edf4ff"/>
+  <path d="M40 42h24l16 23 16-23h24L92 80l30 38H98L80 91l-18 27H38l30-38-28-38z" fill="url(#g1)"/>
+  <path d="M20 80c18-30 43-46 76-50" fill="none" stroke="#8ab6ff" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Commerce icon">
+  <rect x="10" y="12" width="44" height="12" rx="4" fill="#0f62fe"/>
+  <rect x="14" y="24" width="36" height="24" rx="4" fill="#eaf1fb" stroke="#0f62fe" stroke-width="2"/>
+  <circle cx="24" cy="52" r="4" fill="#0043ce"/>
+  <circle cx="42" cy="52" r="4" fill="#0043ce"/>
+  <path d="M20 30h24M20 36h16" stroke="#0f62fe" stroke-width="2" stroke-linecap="round"/>
+</svg>
