@@ -536,3 +536,4 @@ zoomd.com,88478941,RESELLER
 Fully optimized for Android 16 to deliver a faster, smoother, and more secure experience.
 
 Fixed known bugs and improved overall app stability.
+vungle.com, 6a492a2c9ef99bc872e43bf3, DIRECT, c107d686becd2d77
