@@ -781,7 +781,7 @@ stroeer.com, 17379, RESELLER
 anzu.io, 691e95644e633a6eee2567ee, RESELLER
 bid-matrix.com, f2c71a45ea149366, RESELLER
 bluexad.ai, 1996418805747683328, RESELLER
-google.com, pub-9312749476772046, DIRECT, f08c47fec0942fa0
+
 bold-win.com, 1189, RESELLER, 71746737d0bab951
 bold-win.com, 1013, RESELLER, 71746737d0bab951
 improvedigital.com, 2297, RESELLER
@@ -945,3 +945,4 @@ zmaticoo.com, 5135195, RESELLER
 e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
 e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 bid-matrix.com, f2c71a45ea149366, RESELLER
+google.com, pub-9730890350757753, DIRECT, f08c47fec0942fa0
